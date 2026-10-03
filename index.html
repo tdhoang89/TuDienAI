@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Từ điển AI dễ hiểu</title>
+  <meta name="description" content="573 thuật ngữ AI giải thích bằng tiếng Việt đơn giản, đọc theo chủ đề như một cuốn sách hoặc tra A → Z. Tác giả: Hoàng Trần.">
+  <meta name="author" content="Hoàng Trần">
+  <meta name="theme-color" content="#0b0b0b">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:title" content="Từ điển AI dễ hiểu — 573 thuật ngữ, đọc theo chủ đề">
+  <meta property="og:description" content="Từ điển AI tiếng Việt: 12 chủ đề, 573 thuật ngữ, lộ trình đọc, thẻ học và video cho từng thuật ngữ.">
+  <meta property="og:image" content="assets/img/og.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script>
+    /* Đặt giao diện sáng/tối trước khi vẽ trang, tránh nháy màu */
+    try {
+      var th = JSON.parse(localStorage.getItem('tdai:theme'));
+      if (th) document.documentElement.setAttribute('data-theme', th);
+      if (JSON.parse(localStorage.getItem('tdai:noMotion'))) document.documentElement.classList.add('no-motion');
+    } catch (e) {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#view">Bỏ qua, tới nội dung</a>
+  <div class="progress-line" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="brand" href="#/" aria-label="Từ điển AI dễ hiểu — trang chủ">
+      <span class="brand__mark">Từ điển <em>AI</em></span>
+      <span class="brand__issue">N°01 · 10/2026</span>
+    </a>
+    <nav class="nav" aria-label="Điều hướng chính">
+      <a href="#/chu-de">Chủ đề</a>
+      <a href="#/a-z">A → Z</a>
+      <a href="#/lo-trinh">Lộ trình</a>
+      <a href="#/de-nham">Dễ nhầm</a>
+      <a href="#/hoc">Học</a>
+      <a href="#/studio">Studio</a>
+      <a href="#/tac-gia">Tác giả</a>
+    </nav>
+    <div class="tools">
+      <button class="search-btn" data-act="search" aria-label="Tìm kiếm">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+        <span>Tìm thuật ngữ</span><span class="kbd">/</span>
+      </button>
+      <button class="icon-btn" data-act="theme" aria-label="Đổi nền sáng tối"></button>
+      <button class="icon-btn menu-btn" data-act="menu" aria-label="Mở menu" aria-expanded="false">
+        <svg class="i-open" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M4 8h16M4 16h16"/></svg>
+        <svg class="i-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M6 6l12 12M18 6 6 18"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <div class="menu" aria-label="Menu">
+    <nav>
+      <a href="#/"><span>Trang chủ</span><small>00</small></a>
+      <a href="#/chu-de"><span>Chủ đề</span><small>12</small></a>
+      <a href="#/a-z"><span>A → Z</span><small>573</small></a>
+      <a href="#/lo-trinh"><span>Lộ trình</span><small>3</small></a>
+      <a href="#/de-nham"><span>Dễ nhầm</span><small>463</small></a>
+      <a href="#/hoc"><span>Học</span><small>✳</small></a>
+      <a href="#/studio"><span>Studio video</span><small>▶</small></a>
+      <a href="#/tac-gia"><span>Tác giả</span><small>HT</small></a>
+      <a href="#/da-luu"><span>Đã lưu</span><small>♥</small></a>
+    </nav>
+    <div class="menu__foot"><span>Từ điển AI dễ hiểu · Bản 0.1</span><button data-act="motion">Bật/tắt chuyển động</button></div>
+  </div>
+
+  <main id="view" class="view" tabindex="-1">
+    <noscript>
+      <div class="wrap empty" style="padding-top:140px">
+        <h2>Cần bật JavaScript</h2>
+        <p>Website này cần JavaScript để hiển thị. Bạn vẫn có thể đọc toàn bộ sách ở dạng văn bản: <a href="content/BOOK.md">content/BOOK.md</a>.</p>
+      </div>
+    </noscript>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="footer__grid">
+        <div>
+          <h4>Từ điển AI dễ hiểu</h4>
+          <p style="max-width:34ch;color:var(--ink-2);font-size:.92rem">573 thuật ngữ AI viết bằng tiếng Việt đơn giản theo STE-VN. Mốc nội dung tháng 10/2026, cập nhật 6 tháng một lần.</p>
+          <div class="chips" style="margin-top:14px">
+            <button class="chip" data-act="random">Từ ngẫu nhiên</button>
+            <button class="chip" data-act="motion">Bật/tắt chuyển động</button>
+          </div>
+        </div>
+        <div><h4>Đọc</h4><ul><li><a href="#/chu-de">Chủ đề</a></li><li><a href="#/a-z">A → Z</a></li><li><a href="#/lo-trinh">Lộ trình</a></li><li><a href="#/cach-doc">Cách đọc</a></li></ul></div>
+        <div><h4>Tra cứu</h4><ul><li><a href="#/de-nham">Dễ nhầm</a></li><li><a href="#/ten-rieng">Tên riêng</a></li><li><a href="#/dong-thoi-gian">Dòng thời gian</a></li><li><a href="#/viet-tat">Viết tắt</a></li></ul></div>
+        <div><h4>Công cụ</h4><ul><li><a href="#/hoc">Thẻ học, trắc nghiệm</a></li><li><a href="#/studio">Studio video</a></li><li><a href="#/da-luu">Đã lưu</a></li><li><a href="#/tac-gia">Tác giả</a></li><li><a href="content/BOOK.md" download="tu-dien-ai-de-hieu.md">Tải bản Markdown đầy đủ</a></li></ul></div>
+      </div>
+      <div class="footer__word" aria-hidden="true">Từ điển <em>AI</em></div>
+      <div class="footer__base">
+        <span>© 2026 Hoàng Trần · Bản 0.1</span>
+        <span>Thông tin chung về thuật ngữ, không phải tư vấn pháp lý</span>
+        <span>Dựng bằng Claude Code</span>
+      </div>
+    </div>
+  </footer>
+
+  <div class="palette" aria-hidden="true" role="dialog" aria-label="Tìm kiếm">
+    <div class="palette__veil"></div>
+    <div class="palette__box">
+      <div class="palette__input">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+        <label class="sr-only" for="pal-q">Tìm thuật ngữ</label>
+        <input id="pal-q" type="search" autocomplete="off" spellcheck="false" placeholder="Gõ tiếng Anh hoặc tiếng Việt, có dấu hay không đều được">
+        <span class="kbd">Esc</span>
+      </div>
+      <div class="palette__opts">
+        <label class="switch"><input type="checkbox" id="pal-full"><span id="pal-full-label">Tìm cả trong nội dung</span></label>
+        <span>· Ví dụ: <i>rag</i>, <i>ao giac</i>, <i>eu ai act</i>, <i>dữ liệu cá nhân</i></span>
+      </div>
+      <div class="palette__results" role="listbox"></div>
+      <div class="palette__foot"><span>↑↓ chọn</span><span>Enter mở</span><span>Ctrl K hoặc / để mở</span></div>
+    </div>
+  </div>
+
+  <div class="peek" aria-hidden="true"></div>
+  <div class="curtain" aria-hidden="true"><div class="curtain__label"></div></div>
+  <div class="cursor" aria-hidden="true"><span class="cursor__label"></span></div>
+  <div class="grain" aria-hidden="true"></div>
+  <div class="toast" role="status" aria-live="polite"></div>
+
+  <script src="data/index.js"></script>
+  <script src="assets/js/film.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>

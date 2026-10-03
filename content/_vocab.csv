@@ -1,0 +1,187 @@
+word,pos,meaning,example,added_in
+bit,n,đơn vị nhỏ nhất của thông tin số,Phần lớn số liệu được tính ở dạng số 16 bit.,02
+biến,n,chỗ trống trong mẫu được thay bằng dữ liệu,Mẫu prompt có biến {nội dung thư}.,05
+biến thể,n,một phiên bản đã đổi nhỏ của câu hỏi gốc nhưng giữ nghĩa,Kỹ sư tạo biến thể có lỗi gõ.,07
+biểu diễn,n,cách một mô hình ghi một đối tượng thành các con số,Lớp sau tạo ra một biểu diễn mới của ảnh.,01
+biểu thức chính quy,n,chuỗi ký hiệu mô tả một mẫu văn bản,Giải mã có ràng buộc dùng biểu thức chính quy.,05
+byte,n,đơn vị dữ liệu gồm 8 bit,Một tham số dạng 16 bit chiếm 2 byte.,03
+báo giá,n,văn bản nhà cung cấp gửi nêu giá dịch vụ,Người đọc gặp các thuật ngữ này trong báo giá.,11
+bãi bỏ,v,chấm dứt hiệu lực của một quy định bằng văn bản khác,Điều 33 bãi bỏ Chương IV.,10b
+bên triển khai,n,(EU AI Act) bên dùng hệ thống AI dưới quyền của mình (deployer); giải thích trong mục provider,Ngân hàng là bên triển khai.,10a
+bản kê,n,tập thông tin có cấu trúc ghi nguồn gốc của một nội dung (manifest),Công cụ ký bản kê bằng chứng thư số.,09
+bảo lưu quyền,v,chủ sở hữu tuyên bố giữ quyền và không cho áp dụng một ngoại lệ,Chủ sở hữu đã bảo lưu quyền.,10a
+bất khả kháng,n,sự kiện khách quan không lường trước và không khắc phục được,Bất khả kháng là căn cứ miễn bồi thường.,10b
+bất định,adj,chưa biết trước kết quả,Mức bất định của công nghệ mới.,12
+bậc độ lớn,n,mức chênh lệch gấp 10 lần,Quan hệ này giữ đúng trên hơn 7 bậc độ lớn.,02
+bắt đầu áp dụng,v,nghĩa vụ trong văn bản bắt đầu ràng buộc các bên,Nghĩa vụ minh bạch bắt đầu áp dụng từ ngày 2/8/2026.,10a
+bọc,v,đặt một lớp phần mềm bên ngoài một phần mềm khác để dùng qua giao diện mới,Một MCP server có thể bọc một API có sẵn.,06
+bồi hoàn,v,trả lại hoặc gánh khoản tiền mà bên kia phải trả cho bên thứ ba theo cam kết,Nhà cung cấp bồi hoàn chi phí vụ kiện cho khách hàng.,10b
+bổ trợ,v,giúp người lao động làm tốt hơn mà không làm thay,Bổ trợ việc làm khác thay thế việc làm.,12
+bộ đệm,n,nơi lưu tạm kết quả để dùng lại,Lần gọi sau đọc kết quả từ bộ đệm.,05
+bộ định tuyến,n,mạng nhỏ chọn expert cho mỗi token trong MoE,Bộ định tuyến chọn 2 trong 64 expert.,03
+che,v,ẩn một token để mô hình không lấy thông tin từ token đó,Dạng có che chỉ cho lấy thông tin từ token đứng trước.,03
+che giấu,v,"giữ kín, không cho người khác thấy",Hệ thống che giấu hành động trước người giám sát.,08
+chuyển tiếp,adj,thuộc khoảng thời gian cho đối tượng cũ thích nghi với quy định mới,Hệ thống cũ có thời hạn chuyển tiếp 12 tháng.,10b
+chặn nhầm,v,chặn một yêu cầu hợp lệ,Guardrail có thể chặn nhầm yêu cầu hợp lệ.,08
+chặn sót,v,không chặn một yêu cầu có hại,cân bằng giữa chặn sót và chặn nhầm,08
+chế tài,n,biện pháp xử lý khi vi phạm pháp luật,Luật cứng có chế tài khi vi phạm.,10a
+chỉ mục,n,cấu trúc dữ liệu giúp tìm nhanh nội dung,Hệ thống lập chỉ mục cho kho tài liệu.,05
+chủ thể pháp luật,n,người hoặc tổ chức có quyền và nghĩa vụ theo pháp luật,Hệ thống AI không phải chủ thể pháp luật.,10b
+chứng thư số,n,tệp điện tử gắn một khóa với danh tính của bên ký,Công cụ kiểm tra chứng thư số của bên ký.,09
+chứng thực từ xa,v,cho bên khác kiểm tra một vùng phần cứng đang chạy đúng phần mềm đã khai báo,Vùng phần cứng cô lập có thể chứng thực từ xa.,09
+chữ ký số,n,dữ liệu mã hóa xác nhận bên ký và cho thấy tệp chưa đổi sau khi ký,Máy ảnh thêm chữ ký số vào ảnh lúc chụp.,09
+có hiệu lực,v,văn bản pháp luật bắt đầu tồn tại về mặt pháp lý,Quy định có hiệu lực ngày 1/8/2024.,10a
+Công báo EU,n,ấn phẩm chính thức đăng văn bản pháp luật của Liên minh châu Âu,Quy định đăng Công báo EU ngày 24/7/2026.,10a
+căn cứ,n,nguồn thông tin dùng để kiểm tra một phát biểu,Grounding gắn đầu ra với căn cứ kiểm tra được.,05
+căn cứ chấm,n,đáp án hoặc tiêu chí dùng để quyết định đầu ra đạt hay không đạt,Căn cứ chấm của bộ phép thử là đáp án do luật sư viết.,07
+cơ quan đầu mối,n,cơ quan chịu trách nhiệm chính và điều phối các cơ quan khác,Bộ Khoa học và Công nghệ là cơ quan đầu mối về AI.,10b
+cưỡng chế,v,buộc phải tuân theo bằng cơ chế kỹ thuật,Giao thức không tự cưỡng chế các nguyên tắc này.,06
+cảm biến,n,"bộ phận đo dữ liệu từ thế giới thật, ví dụ: camera, micro",Hệ thống nhận dữ liệu từ cảm biến.,04
+cấu hình,n,tập các lựa chọn thiết lập cho một lần huấn luyện hoặc một hệ thống,Kỹ sư dùng tập kiểm định để chọn cấu hình.,02
+cộng dồn,v,thêm dữ liệu mới vào dữ liệu cũ thay vì thay thế,Cộng dồn dữ liệu thật và dữ liệu tổng hợp.,12
+cục bộ,adj,chỉ thuộc một vùng nhỏ của dữ liệu,Lớp tích chập tìm mẫu cục bộ trong ảnh.,01
+cửa hậu,n,hành vi ẩn được cài vào mô hình hoặc phần mềm và chỉ bật khi gặp một tín hiệu riêng,Một cụm từ riêng bật cửa hậu của mô hình.,09
+diễn giải,v,giải thích ý nghĩa của một kết quả,Con người phải diễn giải kết quả phân cụm.,01
+dàn xếp,n,thỏa thuận giải quyết tranh chấp giữa các bên trước khi tòa xử xong,Tòa phê duyệt thỏa thuận dàn xếp.,10a
+dương,adj,(nhóm) nhóm mà mô hình phân loại cần tìm,Nhóm dương là thư rác.,07
+dấu phẩy động,n,cách máy tính lưu số thực với số chữ số có nghĩa cố định,FLOP là một phép tính trên số dấu phẩy động.,01
+dịch ngược,v,phân tích một hệ thống để tìm cách hệ thống hoạt động,dịch ngược cơ chế tính toán,08
+dự thảo,n,văn bản chưa được thông qua thành chuẩn hoặc luật,Nhãn train-ai=n còn ở dạng dự thảo.,02
+dựng lại,v,tạo lại dữ liệu từ dạng đã nén,Phần dựng lại đổi biểu diễn về dạng gần với đầu vào.,03
+dựng sẵn,adj,do người làm thử nghiệm tạo trước,Thử nghiệm có tình huống dựng sẵn.,08
+giá trị,n,dãy số mang thông tin được trộn trong attention (value),Token nhận tổng các giá trị.,03
+giả danh,v,dùng danh tính của người khác,Kẻ gian lận giả danh khách hàng khi mở tài khoản.,09
+giả lập,adj,"được dựng lại bằng phần mềm để thử, không phải hệ thống thật",Agent đặt vé trên một trang web giả lập.,07
+giả định,adj,chưa có thật; được nêu ra để suy xét,AGI là một hệ thống AI giả định.,12
+greedy decoding,n,cách decoding luôn chọn token có xác suất cao nhất ở mỗi bước; giữ dạng tiếng Anh; xử lý trong mục sampling,"Với k bằng 1, lấy mẫu top-k giống greedy decoding.",04
+gây nhiễu,adj,làm khó tìm thông tin đúng,Đoạn gây nhiễu gần giống thông tin cần tìm.,05
+gắn cờ,v,đánh dấu một phiên hoặc nội dung để kiểm tra thêm,Hệ thống an toàn gắn cờ một phiên.,09
+gộp,v,nhập một phần vào phần khác thành một,Kỹ sư gộp phần gắn thêm vào trọng số gốc.,03
+hiến chương,n,danh sách nguyên tắc dùng để huấn luyện mô hình theo Constitutional AI,Tên của danh sách này là hiến chương.,08
+hoàn tác,v,trả một thao tác về trạng thái trước,Xóa tệp là thao tác không hoàn tác được.,09
+hàm lũy thừa,n,quan hệ trong đó một đại lượng thay đổi theo một số mũ cố định của đại lượng khác,Mất mát giảm theo hàm lũy thừa của 3 đại lượng.,02
+hạ nguồn,n,vị trí sau trong chuỗi giá trị nơi bên khác tích hợp mô hình,Nhà cung cấp hệ thống AI ở hạ nguồn.,10a
+hết thời gian chờ,v,kết nối tự đóng vì chờ phản hồi quá lâu,Streaming giúp tránh lỗi hết thời gian chờ.,11
+hệ số,n,con số dùng để nhân với một giá trị khi cộng gộp,Hệ số attention có tổng bằng 1.,03
+hỗn hợp dữ liệu,n,tập dữ liệu gồm nhiều nguồn trộn theo tỷ lệ,60% hỗn hợp dữ liệu của GPT-3 lấy từ Common Crawl.,02
+khung hình,n,một ảnh tĩnh trong chuỗi ảnh tạo nên video,Người và vật phải giữ đúng qua các khung hình.,04
+khuôn dạng,n,cấu trúc định trước của đầu ra mà máy đọc được,Đầu ra khớp khuôn dạng JSON.,05
+khách quan,adj,không phụ thuộc lựa chọn hay ý muốn của người làm,Thuật toán không tự động khách quan.,01
+kháng cáo,v,yêu cầu tòa cấp trên xem xét lại phán quyết,Tòa cho phép Getty Images kháng cáo.,10a
+khóa,n,dãy số của token được so sánh trong attention (key),Mô hình so truy vấn với khóa của các token khác.,03
+khóa API,n,chuỗi ký tự bí mật để nhà cung cấp xác định bên gọi API,Giữ khóa API bí mật.,11
+khối,n,một nhóm lớp lặp lại trong kiến trúc mạng,Kiến trúc lai xen kẽ các khối attention và khối SSM.,03
+khử nhiễu,v,bỏ dần phần nhiễu khỏi dữ liệu,Mô hình khử nhiễu qua nhiều bước.,03
+khử nhận dạng,v,xử lý dữ liệu để không còn xác định được người có dữ liệu,Dữ liệu đã khử nhận dạng không còn là dữ liệu cá nhân.,10b
+kích hoạt,n,giá trị số bên trong mạng nơ-ron khi xử lý một đầu vào (activation),chỉnh giá trị kích hoạt,08
+ký hiệu,n,dấu hoặc chữ đại diện cho một nội dung,Xử lý ký hiệu theo quy tắc.,12
+kẻ tấn công,n,người hoặc nhóm cố ý gây hại cho một hệ thống,Kẻ tấn công đặt chỉ dẫn vào một trang web.,09
+kịch bản,n,chuỗi bước thao tác viết sẵn cho phần mềm tự động hóa,RPA làm theo kịch bản cố định.,06
+liên đới,adj,cùng chịu trách nhiệm trả đủ khoản bồi thường với bên khác,Bên có lỗi liên đới bồi thường.,10b
+logarit,n,phép toán ngược của lũy thừa,Logprobs là logarit của xác suất.,04
+luồng,n,một chuỗi lệnh máy tính chạy độc lập,GPU chạy hàng nghìn luồng tính cùng lúc.,01
+lách,v,tìm cách đạt tiêu chí mà không làm đúng mục đích,Mô hình lách bài kiểm thử.,08
+lưu đệm,v,lưu tạm kết quả để dùng lại cho yêu cầu giống nhau,Cổng mô hình gom việc lưu đệm vào một chỗ.,11
+lập chỉ mục,v,tạo chỉ mục cho một kho dữ liệu,Hệ thống lập chỉ mục trước khi truy xuất.,05
+ma trận,n,bảng số xếp theo hàng và cột,Mạng nơ-ron gồm chủ yếu các phép nhân ma trận.,01
+mili giây,n,một phần nghìn giây,Đơn vị là giây hoặc mili giây.,11
+máy ảo,n,máy tính giả lập bằng phần mềm chạy trên một máy thật,Chạy computer use trong máy ảo riêng.,06
+mã băm,n,chuỗi ký tự ngắn tính từ nội dung của một tệp để phát hiện sửa đổi,Công cụ so mã băm của tệp tải về với mã băm công bố.,09
+mô hình dự phòng,n,mô hình nhận yêu cầu khi mô hình chính lỗi,Hệ thống gửi yêu cầu sang một mô hình dự phòng.,11
+mô phỏng,n,bản chạy bằng phần mềm tái tạo hành vi của một vật hoặc một nơi thật,Kỹ sư thử robot trong mô phỏng.,04
+mô-đun,n,phần phần mềm tách riêng có chức năng xác định,dùng mô-đun bên ngoài,06
+mạng con,n,một mạng nhỏ nằm bên trong một mạng lớn,Mỗi expert là một mạng con.,03
+mất cân bằng,adj,(dữ liệu) có một nhóm chiếm phần rất nhỏ so với nhóm khác,Dữ liệu gian lận mất cân bằng: 10 trên 1.000 giao dịch.,07
+mệt mỏi phê duyệt,n,trạng thái người duyệt bấm đồng ý mà không đọc kỹ vì phải duyệt quá nhiều,Một nhà phát triển gọi hiện tượng này là mệt mỏi phê duyệt.,06
+mục đích dự kiến,n,cách dùng mà nhà cung cấp định trước cho hệ thống và ghi trong tài liệu,Mức rủi ro phụ thuộc vào mục đích dự kiến.,10a
+mức nỗ lực,n,thiết lập (effort) cho biết mô hình suy luận dùng nhiều hay ít tính toán,Người dùng chỉnh lượng suy luận bằng mức nỗ lực.,04
+mức tự tin,n,"con số mô hình báo kèm dự đoán, cho biết xác suất dự đoán đúng theo mô hình; không phải trạng thái tinh thần",Mô hình báo mức tự tin 90%.,07
+nghiên cứu quan sát,n,nghiên cứu đo hiện tượng mà không phân nhóm ngẫu nhiên,Nghiên cứu quan sát không chứng minh quan hệ nhân quả.,12
+ngoại suy,v,kéo dài một quy luật ra ngoài phạm vi đã đo,Kéo dài đường cong ra ngoài phạm vi đó là ngoại suy.,02
+ngưỡng,n,giá trị mốc để quyết định chọn hay không chọn,Phần mềm chọn nhóm khi xác suất vượt một ngưỡng.,01
+ngầm định,adj,không nêu thành lời nhưng có trong cách thiết kế hoặc cách dùng,Hệ thống làm việc theo mục tiêu nêu rõ hoặc ngầm định.,01
+nhiễu,n,phần giá trị ngẫu nhiên làm sai lệch dữ liệu,Mô hình bắt đầu từ một ảnh toàn nhiễu.,03
+nhánh,n,bản sao riêng của mã nguồn để sửa mà không ảnh hưởng bản chính,Agent sửa mã trên một nhánh riêng.,06
+nhóm đối chứng,n,nhóm dùng để so sánh trong một nghiên cứu,Giảm 16% so với nhóm đối chứng.,12
+nhật ký,n,bản ghi tự động các sự kiện và thao tác của phần mềm,Người dùng theo dõi nhật ký.,06
+nhị phân,adj,chỉ có 2 giá trị hoặc 2 nhóm,Phân loại nhị phân có 2 nhóm.,01
+NPU,n,chip chuyên cho phép tính của mạng nơ-ron trong điện thoại và máy tính,Nhiều máy mới có NPU.,11
+nén,v,thu nhỏ dữ liệu thành dạng ngắn hơn,Autoencoder nén ảnh thành một biểu diễn ngắn.,03
+nước thành viên,n,quốc gia thuộc Liên minh châu Âu,Cơ quan của từng nước thành viên.,10a
+phiên,n,một lần làm việc liên tục giữa người dùng và ứng dụng,Mô hình không tự giữ thông tin giữa các phiên.,06
+phái sinh,adj,được tạo ra bằng cách sửa hoặc dựa trên một tác phẩm hoặc mô hình gốc,Tên của mô hình phái sinh phải bắt đầu bằng Llama.,11
+phát biểu,n,một ý khẳng định ngắn có thể kiểm tra đúng sai,Câu trả lời có 5 phát biểu.,07
+phân tán,v,nằm rải trên nhiều chỗ thay vì ở một chỗ,Thông tin phân tán trên nhiều tham số.,01
+phê chuẩn,v,thủ tục một quốc gia chấp nhận bị ràng buộc bởi điều ước đã ký,Liên minh châu Âu phê chuẩn Công ước.,10b
+phòng ngừa,n,biện pháp làm trước để rủi ro không xảy ra,một biện pháp phòng ngừa,08
+phòng vệ,n,biện pháp chống tấn công hoặc tác hại,phòng vệ nhiều tầng,08
+phương thức,n,"một loại dữ liệu mà mô hình nhận hoặc tạo, ví dụ: văn bản, ảnh, âm thanh, video",Mỗi loại dữ liệu là một phương thức.,04
+quyền cơ bản,n,các quyền con người được luật bảo vệ ở mức cao nhất,FRIA xem rủi ro cho quyền cơ bản.,10a
+ranh giới,n,chỗ chia giữa 2 phần,Ký hiệu phân cách đánh dấu ranh giới.,05
+rào chắn kỹ thuật,n,biện pháp kỹ thuật ngăn truy cập,Tín hiệu này là yêu cầu không phải rào chắn kỹ thuật.,02
+rò rỉ,v,để thông tin đi ra ngoài khi không có sự cho phép,Độ dài gói tin làm rò rỉ chủ đề câu trả lời.,09
+ròng,adj,sau khi lấy phần tăng trừ phần giảm,Kết quả ròng phụ thuộc vào 2 tác động.,12
+rẽ nhánh,v,chọn một trong nhiều đường xử lý theo điều kiện,kỹ sư viết sẵn điều kiện rẽ nhánh,06
+rời rạc,adj,chỉ nhận một số mức tách biệt,Lượng tử hóa làm tròn về một số mức rời rạc.,03
+schema,n,mô tả cấu trúc dữ liệu: tên trường và kiểu dữ liệu,Schema yêu cầu 3 trường.,05
+sinh trắc học,adj,thuộc đặc điểm cơ thể dùng để nhận dạng người (vân tay; khuôn mặt; giọng nói),Dữ liệu sinh trắc học là PII.,09
+siêu dữ liệu,n,thông tin mô tả một tệp (người tạo; thời điểm; công cụ) nằm cạnh nội dung chính,Siêu dữ liệu có thể mất khi chụp màn hình.,09
+so khớp,v,so 2 chuỗi để xem có giống nhau từng ký tự hay không,Đoạn mã so khớp đầu ra với đáp án.,07
+song song,adj,chạy cùng lúc thay vì lần lượt,GPU chạy nhiều phép tính song song.,01
+suy đoán,v,(pháp lý) luật coi một điều là đúng cho tới khi có chứng cứ ngược lại,Luật suy đoán mô hình có năng lực tác động lớn.,10a
+sơ thẩm,adj,(phán quyết) của tòa cấp thứ nhất và có thể bị xem xét lại,Đây là phán quyết sơ thẩm.,10a
+sắc lệnh hành pháp,n,văn bản của Tổng thống Mỹ chỉ đạo cơ quan liên bang,Sắc lệnh 14365 giao nhiệm vụ cho cơ quan liên bang.,10b
+sẵn sàng,adj,(trong bảo mật) dùng được khi người có quyền cần,Bảo mật AI giữ hệ thống sẵn sàng cho người dùng.,09
+thao túng,v,tác động để đổi niềm tin hoặc hành vi của người khác không chính đáng,lĩnh vực thao túng có hại,08
+thiên lệch,n,độ lệch có hệ thống khỏi thực tế trong dữ liệu (nghĩa chung),Dữ liệu web chứa lỗi và thiên lệch.,02
+thu hồi,v,đưa sản phẩm đã bán trở về hoặc ngừng cho dùng,Cơ quan có quyền thu hồi sản phẩm.,10a
+thuê ngoài,v,giao việc cho người hoặc công ty bên ngoài tổ chức,Các công ty thường thuê ngoài công việc này.,02
+thích nghi,v,thay đổi hành vi theo dữ liệu hoặc hoàn cảnh mới,Một số hệ thống thích nghi sau khi triển khai.,01
+thông lượng,n,số token hoặc số yêu cầu hệ thống xử lý xong trong 1 giây,Thông lượng tăng tới một mức trần.,11
+thẩm quyền,n,quyền được làm hoặc quyết định một việc theo quy định,Vai không cho mô hình thẩm quyền thật.,05
+thực thể,n,đối tượng có tên trong dữ liệu (người; công ty; hợp đồng),Đồ thị tri thức nối các thực thể.,05
+tiếp xúc (với AI),v,có nhiệm vụ mà AI có thể làm hoặc hỗ trợ (dịch từ exposure),Nghề tiếp xúc nhiều với AI.,12
+tiện ích mở rộng,n,phần mềm nhỏ cài thêm vào trình duyệt,một agent trình duyệt dạng tiện ích mở rộng,06
+TOPS,n,nghìn tỷ phép tính mỗi giây,NPU cần đạt từ 40 TOPS trở lên.,11
+toàn vẹn,adj,không có sửa đổi trái phép,Mã băm giúp kiểm tra tính toàn vẹn của tệp.,09
+trung thực,adj,(của chuỗi suy nghĩ) phản ánh đúng yếu tố đã tác động tới câu trả lời,Các nhà nghiên cứu chưa thống nhất về độ trung thực của chuỗi suy nghĩ.,04
+trung vị,n,giá trị ở giữa khi xếp các số đo theo thứ tự,một prompt văn bản ở mức trung vị,11
+truy vấn,n,dãy số của token đang xét trong attention (query),Mô hình so truy vấn với khóa.,03
+truy vết,v,lần theo nguồn gốc hoặc đường đi của dữ liệu,Hồ sơ nguồn gốc giúp truy vết lỗi.,02
+trích,v,lấy một phần từ văn bản hoặc nguồn,Ứng dụng trích thực thể từ tài liệu.,05
+trừu tượng,adj,ở mức khái quát hơn chi tiết cụ thể của dữ liệu,Mỗi lớp tạo ra một biểu diễn trừu tượng hơn của dữ liệu.,01
+TWh,n,"terawatt-giờ, đơn vị đo lượng điện bằng 1 tỷ kWh",Các trung tâm dữ liệu dùng khoảng 415 TWh điện.,11
+tác động tái tạo,n,việc công nghệ tạo ra nhiệm vụ mới cho con người,Tác động tái tạo bù cho tác động thay thế.,12
+tái lập,v,làm lại một thí nghiệm và thu được kết quả tương tự,Nhóm khác tái lập kết quả đánh giá.,07
+tình thế cấp thiết,n,tình huống phải gây một thiệt hại nhỏ hơn để tránh thiệt hại lớn hơn,Tình thế cấp thiết là căn cứ miễn bồi thường.,10b
+tín dụng,n,đơn vị trả trước để tính mức dùng dịch vụ (credit),khách hàng trả theo số tín dụng,11
+tín hiệu,n,thông tin cho biết cần chú ý hoặc kiểm tra,Một điểm bất thường là tín hiệu cần kiểm tra.,01
+tại chỗ,adj,máy chủ do doanh nghiệp tự mua và đặt trong cơ sở của mình (on-premises),Tại chỗ là cách doanh nghiệp tự mua máy chủ.,11
+tần suất,n,số lần một thứ xuất hiện trong dữ liệu,Bộ tách token chia văn bản theo tần suất của các đoạn chữ.,03
+tập con,n,một phần được chọn ra từ một tập lớn hơn,Một tập con chọn theo giá trị giáo dục cho kết quả tốt hơn.,02
+tọa độ,n,vị trí của một điểm trên màn hình tính bằng số,bấm tại một tọa độ,06
+tự báo cáo,adj,do người tham gia tự khai trong khảo sát,Khảo sát tự báo cáo không chứng minh nhân quả.,12
+uptime,n,tỷ lệ thời gian dịch vụ hoạt động,SLA nêu tỷ lệ thời gian hoạt động (uptime).,11
+VPC,n,mạng ảo tách riêng bên trong đám mây công cộng (virtual private cloud),Doanh nghiệp đặt hệ thống AI bên trong VPC.,11
+văn bản quy phạm pháp luật,n,văn bản chứa quy tắc xử sự chung do cơ quan có thẩm quyền ban hành theo thủ tục luật định,Nghị quyết của Đảng không phải văn bản quy phạm pháp luật.,10b
+vết,n,bản ghi đường đi của một yêu cầu qua các bước (trace),Vết ghi đường đi của một yêu cầu.,11
+Wh,n,"watt-giờ, đơn vị đo lượng điện","Mỗi prompt dùng 0,24 Wh điện.",11
+xen kẽ,v,đặt luân phiên các phần khác loại,Kiến trúc lai xen kẽ các khối attention với khối SSM.,03
+xuyên biên giới,adj,đi từ lãnh thổ một nước sang nước khác,Công ty chuyển dữ liệu cá nhân xuyên biên giới.,10b
+xóa sổ,v,làm mất hoàn toàn,rủi ro xóa sổ loài người,08
+ác ý,n,ý định gây hại,không đòi hỏi AI có ác ý,08
+âm,adj,(nhóm) nhóm không phải nhóm cần tìm,Thư thường thuộc nhóm âm.,07
+đa dụng,adj,dùng được cho nhiều loại nhiệm vụ,Các mô hình đa dụng làm được nhiều loại nhiệm vụ.,01
+điểm kỳ vọng,n,điểm trung bình dự kiến cho một trạng thái,Phương pháp gốc cần một mô hình phụ để ước lượng điểm kỳ vọng.,02
+điểm nghẽn,n,yếu tố hạn chế làm chậm cả quá trình,Năng lượng là một điểm nghẽn có thể có.,12
+điểm vướng,n,tình huống agent không tự xử lý tiếp được và cần người giúp,Người dùng chỉ xử lý điểm vướng.,06
+điểm ảnh,n,đơn vị nhỏ nhất của một ảnh số,Phân đoạn gán loại cho từng điểm ảnh.,04
+đưa ra thị trường,v,lần đầu cung cấp một sản phẩm hoặc mô hình trên thị trường của một vùng pháp lý,Nhà cung cấp đưa hệ thống ra thị trường EU.,10a
+đường chéo,n,các ô của bảng có hàng và cột cùng nhóm,Các ô trên đường chéo đếm dự đoán đúng.,07
+đạo luật ủy quyền,n,văn bản do Ủy ban châu Âu ban hành theo quyền mà luật giao (delegated act),Ủy ban sửa Phụ lục III bằng đạo luật ủy quyền.,10a
+đặc tả,n,văn bản kỹ thuật quy định chính xác yêu cầu hoặc cách hoạt động,Đặc tả yêu cầu host xin đồng ý của người dùng.,06
+định giá,n,mức giá mà thị trường trả cho một tài sản so với giá trị cơ bản,Định giá cao của công ty công nghệ.,12
+đồng thuận,n,mức các người làm cùng một việc cho cùng một kết quả,Chất lượng nhãn phụ thuộc vào mức đồng thuận giữa người gán nhãn.,02
+ước lượng,v,tính ra một giá trị gần đúng,Mô hình phần thưởng chỉ ước lượng gần đúng lựa chọn của người chấm.,02
+ẩn dụ,n,cách gọi một sự vật bằng tên của sự vật khác có nét giống,"Tên ""ảo giác"" là một ẩn dụ.",04
+ứng viên,n,phần tử được chọn sơ bộ để xét tiếp,Reranker xếp lại danh sách ứng viên.,05

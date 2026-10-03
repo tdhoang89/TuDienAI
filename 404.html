@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Không tìm thấy — Từ điển AI dễ hiểu</title>
+  <script>
+    /* GitHub Pages trả trang này cho mọi đường dẫn lạ. Website dùng định tuyến bằng dấu #,
+       nên chỉ cần đưa người đọc về trang chủ của website.
+       Website của dự án nằm ở /<tên-repo>/ ; website của tài khoản (<user>.github.io) nằm ở / . */
+    (function () {
+      var parts = location.pathname.split('/').filter(Boolean);
+      var base = location.hostname.endsWith('github.io') && parts.length > 1 ? '/' + parts[0] + '/' : '/';
+      var target = base + (location.hash && location.hash.indexOf('#/') === 0 ? location.hash : '#/');
+      if (location.pathname !== base) location.replace(target);
+      else document.addEventListener('DOMContentLoaded', function () { document.getElementById('home').href = target; });
+    })();
+  </script>
+  <style>body{margin:0;display:grid;place-items:center;min-height:100vh;background:#0b0b0b;color:#f3f1ec;font-family:Georgia,serif;text-align:center;padding:24px}a{color:inherit}</style>
+</head>
+<body><p>Không tìm thấy trang này.<br><a id="home" href="/">Về trang chủ Từ điển AI dễ hiểu</a></p></body>
+</html>
